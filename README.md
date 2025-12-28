@@ -48,7 +48,7 @@ The paper provides:
 - How gravitational waves probe deviations from GR  
 - ppE-style parameterizations used for generic metric deformations  
 
-(Of course, in the "Project Report", another mathematiical method to derive ppE parameters is included based on study of other papers and literature review.)
+(In the "Project Report", another mathematical method to derive ppE parameters is included based on study of other papers and literature review.)
 
 The dataset used here is LIGO LVC dataset.
 
